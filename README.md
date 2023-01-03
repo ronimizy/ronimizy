@@ -28,6 +28,12 @@ Lot of work needs a lot of rest, so my free time I spend writing C# libraries.
    </a> 
 </p> 
 
+### Stack
+- ASP.NET Core
+- Entity Framework
+- Roslyn API
+- Blazor WASM
+
 ### Socials  
 <p align="left"> 
   <a href="https://discord.com/users/ronimizy" target="_blank" rel="noreferrer">
