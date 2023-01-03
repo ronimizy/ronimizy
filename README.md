@@ -2,7 +2,11 @@ Hi 👋 My name is George
 =======================  
 Backend developer. ITMO OOP mentor. 
 -----------------------------------  
-Third year ITMO University student. Middle backend C# developer at InfoWise. Head backend developer at omyonic.com. OOP mentor at ITMO University. Lot of work needs a lot of rest, so my free time I spend writing C# libraries.  
+Third year ITMO University student. 
+Head backend developer at omyonic.com. 
+Middle backend C# developer at InfoWise. 
+OOP mentor at ITMO University. 
+Lot of work needs a lot of rest, so my free time I spend writing C# libraries.  
 
 * 🌍  I'm based in Saint-Petersburg, Russia 
 * ✉️  You can contact me at [t.me/ronimizy](mailto:t.me/ronimizy) 
