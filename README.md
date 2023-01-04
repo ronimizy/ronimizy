@@ -3,7 +3,7 @@ Hi 👋 My name is George
 Backend developer. ITMO OOP mentor. 
 -----------------------------------  
 Third year ITMO University student. 
-Head backend developer at omyonic.com. 
+Head backend developer at [Omyonic](omyonic.com). 
 Middle backend C# developer at InfoWise. 
 OOP mentor at ITMO University. 
 Lot of work needs a lot of rest, so my free time I spend writing C# libraries.  
