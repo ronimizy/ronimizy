@@ -2,7 +2,7 @@ Hi 👋 My name is George
 =======================  
 - bachelor @ ITMO university, information systems
 - senior .NET developer @ [Ozon](https://ozon.tech)
-- lecturer, tutor @ ITMO University
+- lecturer, tutor @ ITMO university
 - speaker
   - ["EntityFrameworkCore 7: Table Per Concrete type" @ SpbDotNet](https://youtu.be/vf4KzhAEN18?si=zNmtbbHytrRg9zx8)
   - ["Blazor: Frontend for Backend" @ SpbDotNet](https://youtu.be/rg6ZqtrWphQ?si=L29FbCYOQntTPhNq)
