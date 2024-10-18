@@ -5,7 +5,9 @@ Hi 👋 My name is George
 - lecturer, tutor @ ITMO university
 - speaker
   - ["EntityFrameworkCore 7: Table Per Concrete type" @ SpbDotNet](https://youtu.be/vf4KzhAEN18?si=zNmtbbHytrRg9zx8)
+    - [repository](https://github.com/ronimizy/SpbDotNet.TPC)
   - ["Blazor: Frontend for Backend" @ SpbDotNet](https://youtu.be/rg6ZqtrWphQ?si=L29FbCYOQntTPhNq)
+    - [repository](https://github.com/ronimizy/SpbDotNet.Blazor) 
   - ["Roslyn и плагины для компилятора C#" @ DevFestOmsk](https://youtu.be/s6Okiv9XuFc?si=a4IWWhgni-uCsffG)
 
 <br/>
