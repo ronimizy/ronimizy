@@ -1,53 +1,20 @@
 Hi 👋 My name is George 
 =======================  
-Backend developer. ITMO OOP mentor. 
------------------------------------  
-- Fourth year ITMO University student 
-- .NET developer at [Ozon](https://ozon.tech)
-- Head backend developer at [Omyonic](https://omyonic.com)
-- Tutor at ITMO University
+- bachelor @ ITMO university, information systems
+- senior .NET developer @ [Ozon](https://ozon.tech)
+- lecturer, tutor @ ITMO University
+- speaker
+  - ["EntityFrameworkCore 7: Table Per Concrete type" @ SpbDotNet](https://youtu.be/vf4KzhAEN18?si=zNmtbbHytrRg9zx8)
+  - ["Blazor: Frontend for Backend" @ SpbDotNet](https://youtu.be/rg6ZqtrWphQ?si=L29FbCYOQntTPhNq)
+  - ["Roslyn и плагины для компилятора C#" @ DevFestOmsk](https://youtu.be/s6Okiv9XuFc?si=a4IWWhgni-uCsffG)
 
-Lot of work needs a lot of rest, so my free time I spend writing C# libraries.  
+<br/>
 
-* 🌍  I'm based in Saint-Petersburg, Russia 
-* ✉️  You can contact me at [t.me/ronimizy](https://t.me/ronimizy) 
+Much work requires much rest, so my free time I spend writing C# libraries
 
-### Skills  
+* ✉️  You can contact me at [t.me/ronimizy](https://t.me/ronimizy)
 
-<p align="left"> 
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-  </a> 
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" />
-  </a> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-   </a> 
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" />
-   </a> 
-</p> 
-
-### Stack
-- ASP.NET Core
-- Entity Framework
-- Roslyn API
-- Blazor WASM
-
-### Socials  
-<p align="left"> 
-  <a href="https://discord.com/users/ronimizy" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-  </a> 
-  <a href="https://www.stackoverflow.com/users/14513706/ronimizy" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
-  </a>
-</p>
-
-### Badges
-
-<b>My GitHub Stats</b>
+<br/>
 
 <div style="display:flex;flex-direction:column;align-items:center">
 <a href="http://www.github.com/ronimizy"><img src="https://github-readme-stats.vercel.app/api?username=ronimizy&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="ronimizy's GitHub stats" /></a>
